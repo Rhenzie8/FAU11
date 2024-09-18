@@ -22,6 +22,7 @@ git log
 git log --oneline
 
 ==BRANCHING==
+
 List all the availabe BRANCHING
 git brach -a 
 
