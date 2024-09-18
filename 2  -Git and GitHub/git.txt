@@ -32,3 +32,13 @@ git branch [branch-name]
 -switch intp a branch 
 git checkout [branch-name]
 git switch [branch-name]
+
+
+==Merging== 
+
+-Merging a branch to current branch 
+git merge [branch-name]
+
+-Delete a BRANCHING
+git branch -d [branch-name]
+ 
