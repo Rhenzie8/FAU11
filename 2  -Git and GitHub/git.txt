@@ -1,0 +1,33 @@
+-Configuring git
+git config --global user.name "username"
+git config user.name 
+
+git config --global user.email "email"
+git config user.email 
+
+-check the status of the file and folder 
+git status 
+
+Git Three Stage Archutechture 
+1. Working Area (FAU11) 
+Stagung Area 
+-Add all the Files that re modified to the staging area 
+git add . 
+3. Commit stage 
+- create a commit 
+git commit -m " This is the description."
+
+- Check the history
+git log
+git log --oneline
+
+==BRANCHING==
+List all the availabe BRANCHING
+git brach -a 
+
+- Create a new branch 
+git branch [branch-name]
+
+-switch intp a branch 
+git checkout [branch-name]
+git switch [branch-name]
